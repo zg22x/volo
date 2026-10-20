@@ -1,7 +1,7 @@
 # ✈️ Volo — Flight Booking Reimagined
 
 <p align="center">
-  <img src="./Volo/scr/s1.png" alt="Volo Flight Booking Website" width="100%" />
+  <img src="./volo/scr/s1.png" alt="Volo Flight Booking Website" width="100%" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Built around cinematic motion, a dynamic 3D airplane, and scroll-driven storytel
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./Volo/scr/s2.png" alt="Volo website preview" width="100%" />
+  <img src="./volo/scr/s2.png" alt="Volo website preview" width="100%" />
 </p>
 
 ## 🛠️ Technologies
@@ -54,12 +54,10 @@ Built around cinematic motion, a dynamic 3D airplane, and scroll-driven storytel
 ## 📱 Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/zg22x/">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Volo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-Replace `YOUR_INSTAGRAM_USERNAME` with your real Instagram username. If Volo doesn't have an Instagram account yet, remove this section until you create one.
 
 ## 📄 License
 
